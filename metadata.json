@@ -1,0 +1,6 @@
+{
+  "name": "Rohima Filling Station",
+  "description": "Official website of Rohima Filling Station in Mollahat, Bagerhat - Authorized Padma Oil Company Dealer. Certified Diesel, Petrol, Octane & Genuine Lubricants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
